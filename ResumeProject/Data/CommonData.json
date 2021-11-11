@@ -1,0 +1,8 @@
+{
+"deviceName" :"something",
+"automationName": "appium",
+"platformName" :"something",
+"platformVersion" :"something",
+"url": "http://localhost:4723/wd/hub",	
+"UDID":"something",
+}	

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="306" started-at="2021-11-08T15:02:29 IST" finished-at="2021-11-08T15:02:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="306" started-at="2021-11-08T15:02:29 IST" finished-at="2021-11-08T15:02:29 IST">
+      <class name="JDBC1.ExecuteUpdate">
+        <test-method status="PASS" signature="executeupdate()[pri:0, instance:JDBC1.ExecuteUpdate]" name="executeupdate" duration-ms="264" started-at="2021-11-08T15:02:29 IST" finished-at="2021-11-08T15:02:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeupdate -->
+      </class> <!-- JDBC1.ExecuteUpdate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
